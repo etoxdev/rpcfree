@@ -1,4 +1,4 @@
-## Etox
+## RPCFree
 
 We build blockchain RPC infrastructure.
 
